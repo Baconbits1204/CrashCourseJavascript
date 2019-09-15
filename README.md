@@ -1,2 +1,4 @@
 # CrashCourseJavascript
-just some javascript basincs
+just some javascript basics
+
+
